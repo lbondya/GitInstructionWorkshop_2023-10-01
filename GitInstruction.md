@@ -10,6 +10,8 @@ da ya ne kakashka uspokoisya
 
 ### Для чего нужна система контроля версий
 
+segodnya eto segodnya
+
 ## Установка git и VSCode на ваш ПК.
 
 ### Установка VSCode на ваш ПК.
